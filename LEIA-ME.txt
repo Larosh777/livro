@@ -1,0 +1,25 @@
+LIVRO DIGITAL DE ANIVERSÁRIO — NICOLLY ❤️
+
+ARQUIVOS
+- index.html: livro digital interativo, com páginas que viram, animações suaves, botão de corações e música opcional.
+- LEIA-ME.txt: instruções para testar e publicar.
+
+TESTAR
+1. Extraia o ZIP.
+2. Abra index.html no Chrome ou Edge.
+3. Use Anterior/Próxima. A melodia só toca quando a pessoa ativa o botão.
+
+PUBLICAR GRATUITAMENTE COM GITHUB PAGES
+1. Entre em https://github.com/ e crie um repositório chamado carta-para-nicolly.
+2. Envie index.html para a raiz do repositório usando Add file > Upload files.
+3. Vá a Settings > Pages.
+4. Em Build and deployment, escolha Deploy from a branch.
+5. Selecione branch main e pasta /(root), e salve.
+6. Aguarde a publicação. O GitHub mostrará um link semelhante a https://SEU-USUARIO.github.io/carta-para-nicolly/
+7. Abra o link no celular e envie para Nicolly.
+
+ALTERNATIVA
+Você pode usar https://app.netlify.com/drop e seguir as instruções para publicar a pasta que contém index.html.
+
+FIDELIDADE AO PDF
+O texto foi distribuído em páginas digitais, preservando a grafia e as mensagens conforme o texto extraído do PDF disponível nesta conversa. Como o layout muda do PDF para o site, confira o conteúdo antes de compartilhar.
